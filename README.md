@@ -5,12 +5,12 @@
 # Sailaja Kota
 Introduction and overview of the project, including a workout burn comparison and quick burn pick dashboards.
 
-Published Tableau workbook:
+Published Tableau workbook: https://public.tableau.com/app/profile/shal.ko/viz/May25CodePudding/Story1?publish=yes
 
 # Yira Villegas
 Storybook including workout routine building dashboards and how to understand them.
 
-Published Tableau workbook:
+Published Tableau workbook: 
 
 # Monty Sitzman
 Storybook including dashboards for equipment required and final overview, plus group conclusions.
