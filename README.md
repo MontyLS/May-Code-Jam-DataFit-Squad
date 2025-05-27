@@ -10,7 +10,8 @@ Published Tableau workbook: https://public.tableau.com/app/profile/shal.ko/viz/M
 # Yira Villegas
 Storybook including workout routine building dashboards and how to understand them.
 
-Published Tableau workbook: https://github.com/MontyLS/May-Code-Jam-DataFit-Squad.git
+Published Tableau workbook: https://public.tableau.com/app/profile/yira.villegas/viz/ExRoutineCodePuddingMay2025final/RoutineBuilding22
+
 # Monty Sitzman
 Storybook including dashboards for equipment required and final overview, plus group conclusions.
 
